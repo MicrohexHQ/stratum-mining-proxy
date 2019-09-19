@@ -1,0 +1,13 @@
+HTML Entity (decimal)	&#18672;
+HTML Entity (hex)	&#x48f0;
+
+How to type in Microsoft Windows ( Alt +48F0 )
+
+UTF-8       (hex)	0xE4 0xA3 0xB0 (e4a3b0)
+UTF-8       (binary)	11100100:10100011:10110000
+UTF-16      (hex)	0x48F0 (48f0)
+UTF-16      (decimal)	18.672
+UTF-32      (hex)	0x000048F0 (48f0)
+UTF-32      (decimal)	18.672
+C/C++/Java source code	"\u48F0"
+Python source code	u"\u48F0"
